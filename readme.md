@@ -26,13 +26,12 @@ OK, here we go.
 
 I have transcriptomic data from single cell sequencing of a polychaete larvae. My cells of interest are photoreceptor cells. My first part of the project will be to go through the data and see if my cells of interest exist. Next part of the project will be to identify more cell types using additional marker genes.
 
-The methods I will use to do this are..
 
 The data I will use are simulations since I do not have access to the data. 
 
 ## Methods
 
-The tools I used were... See analysis files at (links to analysis files).
+I will simulate a dataset similar to what I already have. There will be 20-30 samples each sample representing an individual cell. 
 
 ## Results
 
