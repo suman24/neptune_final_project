@@ -20,15 +20,15 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Cell types
+# Identifying cells of interest from single cell sequence data
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+I have transcriptomic data from single cell sequencing of a polychaete larvae. My cells of interest are photoreceptor cells. My first part of the project will be to go through the data and see if my cells of interest exist. Next part of the project will be to identify more cell types using additional marker genes.
 
-The methods I will use to do this are...
+The methods I will use to do this are..
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
+The data I will use are simulations since I do not have access to the data. 
 
 ## Methods
 
