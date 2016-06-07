@@ -24,14 +24,15 @@ OK, here we go.
 
 ## Introduction and Goals
 
-I have transcriptomic data from single cell sequencing of a polychaete larvae. My cells of interest are photoreceptor cells. My first part of the project will be to go through the data and see if my cells of interest exist. Next part of the project will be to identify more cell types using additional marker genes.
+I have transcriptomic data from single cell sequencing of a polychaete larvae. The dataset is from approximately 50 cells isolated from 4 day larvae. My cells of interest are photoreceptor cells. My first part of the project will be to go through the data and see if my cells of interest exist. Next part of the project will be to identify more cell types using additional marker genes. I will simulate a dataset similar to what I already have. There will be 20-30 samples each sample representing an individual cell. Using few marker genes, the dataset will be probed by running a BLAST. The marker genes will be chosen from the simulated dataset to achieve a working method which can be extended to my actual data at a later stage. 
 
-
-The data I will use are simulations since I do not have access to the data. 
 
 ## Methods
 
-I will simulate a dataset similar to what I already have. There will be 20-30 samples each sample representing an individual cell. 
+Python/Shell?
+
+BLAST
+
 
 ## Results
 
