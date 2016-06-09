@@ -35,7 +35,7 @@ The starting dataset is a multiplexed sample of 50 cells containing 50 unique in
 
 ## Mapping of reads 
 
-The reads can be mapped either to a reference transcriptome or to known sequences (for desired read counts) using Bowtie aligner.
+The reads can be mapped either to a reference transcriptome (which is already available) or to known sequences (for desired read counts) using Bowtie aligner.
 
 ## Generating read counts
 
