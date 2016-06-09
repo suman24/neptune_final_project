@@ -24,8 +24,8 @@ OK, here we go.
 
 ## Introduction and Goals
 
-Annelids are a diverse group of animals thriving in a variety of lifestyles. Comparison of cell types among closely/distantly related species (or species with different lifestyles) will give a better understanding of evolution at the cellular level. Recent single cell sequencing techniques has made it possible to isolate cells and sequence the transcriptome 
-I have transcriptomic data from single cell sequencing of a polychaete larvae. The dataset is from approximately 50 cells isolated from 4 day larvae. My cells of interest are photoreceptor cells. My first part of the project will be to go through the data and see if my cells of interest exist. Next part of the project will be to identify more cell types using additional marker genes. I will simulate a dataset similar to what I already have. There will be 20-30 samples each sample representing an individual cell. Using few marker genes, the dataset will be probed by running a BLAST. The marker genes will be chosen from the simulated dataset to achieve a working method which can be extended to my actual data at a later stage.
+Annelids are a diverse group of animals thriving in a variety of lifestyles. Comparison of cell types among closely/distantly related species (or species with different lifestyles) will give insights on the evolution of cell types. Recent single cell sequencing techniques have made it possible to isolate cells and derive the transcriptome of individual cells.
+I have transcriptomic data from single cell sequencing of a polychaete larvae. The dataset is from approximately 50 cells isolated from 4 day old larvae. I'm particularly interested in the photoreceptor cells. The raw data consists of reads from multiplexed samples. I will simulate a dataset similar to what I already have. There will be 20-30 samples each sample representing an individual cell. 
 
 # Steps
 
@@ -35,7 +35,7 @@ The starting dataset is a multiplexed sample of 50 cells containing 50 unique in
 
 ## Mapping of reads 
 
-The reads can be mapped either to a reference transcriptome or to known sequences using Bowtie aligner (desired read counts).
+The reads can be mapped either to a reference transcriptome or to known sequences (for desired read counts) using Bowtie aligner.
 
 ## Generating read counts
 
@@ -43,23 +43,20 @@ The reads can be mapped either to a reference transcriptome or to known sequence
 ## 
 
 
-
-
-
-
-
-
-
 ## Methods
 
-Python/Shell?
+Python/Shell - Multiplexing and demultiplexing
 
-BLAST
+Bowtie - Sequence mapping
+
+RSEM - Quantifying genes and isoforms
 
 
 ## Results
 
-![Figure 1](./Figure1.png?raw=true)
+Using sim_reads I simulated a single sequence set containing 33610 reads.
+
+
 
 In Figure 1...
 
