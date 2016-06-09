@@ -58,7 +58,7 @@ RSEM - Quantifying genes and isoforms
 
 Using sim_reads I simulated a single sequence set containing 33610 reads.
 
-Four different barcodes were added to the reads using Python.
+Four different barcodes were tagged to the reads in random using Python.
 
 Used axe-demultiplexer to separate the reads into four datasets according to their barcode.
 
