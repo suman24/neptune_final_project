@@ -56,23 +56,22 @@ RSEM - Quantifying genes and isoforms
 
 ## Results
 
-Using sim_reads I simulated a single sequence set containing 33610 reads.
+# Data simulation
+
+Using sim_reads I simulated a single sequence set containing 33610 reads (from Nasonia genome).
 
 Four different barcodes were tagged to the reads in random using Python.
 
 Used axe-demultiplexer to separate the reads into four datasets according to their barcode.
 
 
-
-In Figure 1...
-
 ## Discussion
 
-These results indicate...
+These results indicate....
 
-The biggest difficulty in implementing these analyses was...
+The biggest difficulty in implementing these analyses was the starting point.
 
-If I did these analyses again, I would...
+If I did these analyses again, I would be slightly faster.
 
 ## References
 
