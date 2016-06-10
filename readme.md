@@ -30,7 +30,7 @@ The reads can be mapped either to a reference transcriptome (which is already av
 ## 
 
 
-## Methods
+# Methods
 
 Python scripting - Multiplexing and demultiplexing
 
@@ -41,7 +41,7 @@ Bowtie - Sequence mapping
 RSEM - Quantifying genes and isoforms
 
 
-## Results
+# Results
 
 ## Data simulation
 
