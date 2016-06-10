@@ -14,6 +14,7 @@ import random
 #using random functionality
 
 for Line in InFile:
+#applies to every line in the input file
 
 	seq1 = ['AATTGGCC', 'TTAAGGCC', 'GGCCTTAA', 'CCGGAATT']
 
