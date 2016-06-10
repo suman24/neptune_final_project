@@ -18,7 +18,7 @@ Since I do not have access to my data I will generate reads from the Nasuia delt
 
 ## Demultiplexing of raw data
 
-The starting dataset is a multiplexed sample of 50 cells containing 50 unique indices. The first step is to demultiplex the sample dataset by identifying the indices and segregating the sample into 50 sets. There are tools available to demultiplex the samples.  
+The starting dataset is a multiplexed sample of 50 cells containing 50 unique indices. The first step is to demultiplex the sample dataset by identifying the indices and segregating the sample into 50 sets. There are tools available to demultiplex the sample.  
 
 ## Mapping of reads 
 
@@ -43,7 +43,7 @@ RSEM - Quantifying genes and isoforms
 
 ## Results
 
-# Data simulation
+## Data simulation
 
 Using sim_reads I simulated a single sequence set containing 33610 single reads (from Nasuia deltocephalinicola genome).
 
