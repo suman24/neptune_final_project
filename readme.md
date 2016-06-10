@@ -8,7 +8,7 @@ OK, here we go.
 ## Introduction and Goals
 
 Annelids are a diverse group of animals thriving in a variety of lifestyles. Comparison of cell types among closely/distantly related species (or species with different lifestyles) will give insights on the evolution of specific cell types. Recent single cell sequencing techniques have made it possible to isolate cells and derive the transcriptome of individual cells.
-I have transcriptomic data from single cell sequencing of a polychaete larvae. The dataset is from approximately 50 cells isolated from 4 day old larvae. I'm particularly interested in the photoreceptor cells. The raw data consists of reads from multiplexed samples. I will simulate a dataset similar to what I already have. There will be 20-30 samples, each sample representing an individual cell. 
+I have transcriptomic data from single cell sequencing of a polychaete larvae. The dataset is from approximately 50 cells isolated from 4 day old larvae. I'm particularly interested in the photoreceptor cells. The raw data consists of reads from multiplexed samples. I will simulate a multiplexed dataset similar to what I already have. Then I will demultiplex the data into 50 sets each representing an individual cell. 
 
 # Steps
 
